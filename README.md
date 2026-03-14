@@ -2,14 +2,14 @@
 
 A high-performance, responsive photo gallery built as a pre-screening assignment for the Celebrare Frontend React Internship.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Core:** React 19 + Vite
 - **Styling:** Tailwind CSS (v4)
 - **Icons:** Lucide React
 - **Fonts:** Plus Jakarta Sans
 
-## ✨ Key Features
+##  Key Features
 
 - **Dynamic Data Fetching:** Fetches live data from Picsum API with loading and error states.
 - **Real-time Search:** Instant filtering by author name with high performance.
@@ -17,7 +17,7 @@ A high-performance, responsive photo gallery built as a pre-screening assignment
 - **Responsive Design:** Optimized layouts for mobile (1 column), tablet (2 columns), and desktop (4 columns).
 - **Modern UI:** Clean, brand-aligned purple/white aesthetic with glassmorphism and smooth transitions.
 
-## 🛠️ Technical Highlights
+##  Technical Highlights
 
 This project demonstrates proficiency in modern React patterns and performance optimization:
 
@@ -27,7 +27,7 @@ This project demonstrates proficiency in modern React patterns and performance o
 4. **useCallback:** Memorized event handlers to minimize unnecessary re-renders of the child components.
 5. **React.memo:** Used on the `PhotoCard` component to ensure only the changed cards re-render.
 
-## 🏃 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -44,7 +44,7 @@ This project demonstrates proficiency in modern React patterns and performance o
    npm run dev
    ```
 
-## 🎥 Submission Video
+## Submission Video
 
 [Replace this with your YouTube Unlisted Link]
 
